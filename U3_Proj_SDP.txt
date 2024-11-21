@@ -1,0 +1,4 @@
+1. The base case is when the branch reaches the end of the limb. The recursion happens whenever
+one line is done being drawn.
+2. It should take in the length of the branch its creating and the size of the pen.
+3. Figure out how turtle works, find out how recursion works more, 
